@@ -33,7 +33,8 @@ export function main() {
         console.log("*****************************************************");
         console.log("                                                     ",
             colors.reset);
-
+            
+        
         console.log("Entre com a opção desejada: ");
         opcao = readlineSync.questionInt("");
 
